@@ -1,4 +1,4 @@
 
-export const sayHi = (test = 'Hi There! I am sm-say-hello npm packge') => {
-    return test;
+export const sayHi = (msg = 'Hi There! from sm-say-hello npm package') => {
+    return msg;
 }
